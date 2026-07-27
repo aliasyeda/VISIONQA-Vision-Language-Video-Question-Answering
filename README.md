@@ -1,13 +1,14 @@
 # VISIONQA-Vision-Language-Video-Question-Answering
 
 Vision-Language Image Understanding using Qwen2.5-VL
-Overview
+
+## Overview
 
 This project demonstrates a Vision-Language AI system capable of understanding images and answering natural language questions about their content using the Qwen2.5-VL multimodal transformer.
 
 Unlike traditional image classification, this system reasons about visual content using natural language, enabling detailed scene understanding and visual question answering (VQA).
 
-Features
+## Features
 Image Captioning
 Scene Understanding
 Visual Question Answering (VQA)
@@ -15,20 +16,21 @@ Natural Language Interaction
 Transformer-based Multimodal Reasoning
 Hugging Face Transformers Integration
 GPU Accelerated Inference (Google Colab)
-Tech Stack
+
+## Tech Stack
 Python
 PyTorch
 Hugging Face Transformers
 Qwen2.5-VL-3B-Instruct
 PIL
 Google Colab
-Model
+## Model
 
 Qwen2.5-VL-3B-Instruct
 
 This is a Vision-Language Transformer capable of jointly understanding images and text for multimodal reasoning tasks.
 
-Pipeline
+## Pipeline
 
 Image
 
@@ -52,7 +54,7 @@ Language Model
 
 Natural Language Response
 
-Example Questions
+## Example Questions
 
 Describe this image in detail.
 
@@ -64,7 +66,7 @@ What objects are visible?
 
 What color is the cat?
 
-Applications
+## Applications
 
 Visual Assistants
 
@@ -80,7 +82,7 @@ Robotics
 
 AI Memory Systems
 
-Results
+## Results
 
 The system successfully generated contextual descriptions and answered natural language questions about multiple images using a pretrained multimodal transformer.
 
@@ -96,8 +98,8 @@ Multimodal Memory Retrieval
 
 Temporal Video Understanding
 
-Author
+## Author
 
 Designed, Developed and Documented by
 
-Syed Alia Samia
+## Syed Alia Samia
