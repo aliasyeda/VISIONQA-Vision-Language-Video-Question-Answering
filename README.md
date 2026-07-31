@@ -2,6 +2,9 @@
 
 Vision-Language Image Understanding using Qwen2.5-VL
 
+<img width="3840" height="2160" alt="Vision-Language Video Question Answering" src="https://github.com/user-attachments/assets/1916d68e-5472-4dd8-8498-f33843958144" />
+
+
 ## Overview
 
 This project demonstrates a Vision-Language AI system capable of understanding images and answering natural language questions about their content using the Qwen2.5-VL multimodal transformer.
@@ -100,6 +103,6 @@ Temporal Video Understanding
 
 ## Author
 
-Designed, Developed and Documented by
+ Developed by:
 
-## Syed Alia Samia
+## Syeda Alia Samia
